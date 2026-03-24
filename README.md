@@ -110,6 +110,4 @@ Skills: Python, SQL, Power BI, Machine Learning
 
 ---
 
-## ⭐ Support  
 
-If you like this project, give it a ⭐ on GitHub!
